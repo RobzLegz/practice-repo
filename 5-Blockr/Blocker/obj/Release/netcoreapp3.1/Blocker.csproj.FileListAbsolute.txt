@@ -1,0 +1,17 @@
+C:\Users\BiggerBob\Desktop\Code\C#\Blocker\Blocker\bin\Release\netcoreapp3.1\Blocker.exe
+C:\Users\BiggerBob\Desktop\Code\C#\Blocker\Blocker\bin\Release\netcoreapp3.1\Blocker.deps.json
+C:\Users\BiggerBob\Desktop\Code\C#\Blocker\Blocker\bin\Release\netcoreapp3.1\Blocker.runtimeconfig.json
+C:\Users\BiggerBob\Desktop\Code\C#\Blocker\Blocker\bin\Release\netcoreapp3.1\Blocker.runtimeconfig.dev.json
+C:\Users\BiggerBob\Desktop\Code\C#\Blocker\Blocker\bin\Release\netcoreapp3.1\Blocker.dll
+C:\Users\BiggerBob\Desktop\Code\C#\Blocker\Blocker\bin\Release\netcoreapp3.1\Blocker.pdb
+C:\Users\BiggerBob\Desktop\Code\C#\Blocker\Blocker\obj\Release\netcoreapp3.1\Blocker.csproj.AssemblyReference.cache
+C:\Users\BiggerBob\Desktop\Code\C#\Blocker\Blocker\obj\Release\netcoreapp3.1\Blocker.Form1.resources
+C:\Users\BiggerBob\Desktop\Code\C#\Blocker\Blocker\obj\Release\netcoreapp3.1\Blocker.Properties.Resources.resources
+C:\Users\BiggerBob\Desktop\Code\C#\Blocker\Blocker\obj\Release\netcoreapp3.1\Blocker.csproj.GenerateResource.cache
+C:\Users\BiggerBob\Desktop\Code\C#\Blocker\Blocker\obj\Release\netcoreapp3.1\Blocker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BiggerBob\Desktop\Code\C#\Blocker\Blocker\obj\Release\netcoreapp3.1\Blocker.AssemblyInfoInputs.cache
+C:\Users\BiggerBob\Desktop\Code\C#\Blocker\Blocker\obj\Release\netcoreapp3.1\Blocker.AssemblyInfo.cs
+C:\Users\BiggerBob\Desktop\Code\C#\Blocker\Blocker\obj\Release\netcoreapp3.1\Blocker.csproj.CoreCompileInputs.cache
+C:\Users\BiggerBob\Desktop\Code\C#\Blocker\Blocker\obj\Release\netcoreapp3.1\Blocker.dll
+C:\Users\BiggerBob\Desktop\Code\C#\Blocker\Blocker\obj\Release\netcoreapp3.1\Blocker.pdb
+C:\Users\BiggerBob\Desktop\Code\C#\Blocker\Blocker\obj\Release\netcoreapp3.1\Blocker.genruntimeconfig.cache
