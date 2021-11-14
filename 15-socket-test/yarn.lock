@@ -2239,6 +2239,16 @@ pbkdf2@^3.0.3:
     safe-buffer "^5.0.1"
     sha.js "^2.4.8"
 
+phoenix@^1.6.2:
+  version "1.6.2"
+  resolved "https://registry.yarnpkg.com/phoenix/-/phoenix-1.6.2.tgz#8d1d9f06e51cb893d08059e80488cd0de328e01a"
+  integrity sha512-VjR27NETvrLSj8rI6DlpVAfo7pCYth/9+1OCoTof4LKEbq0141ze/tdxFHHZzVQSok3gqJUo2h/tqbxR3r8eyw==
+
+phoenix_live_view@^0.17.5:
+  version "0.17.5"
+  resolved "https://registry.yarnpkg.com/phoenix_live_view/-/phoenix_live_view-0.17.5.tgz#a1ade60693a44d9df5d39eaad71483f8a8a28a91"
+  integrity sha512-5KkaL/qfeQN4Ti8Hv81Z2hdaO1040Erumj4I1H5ADRDI4eRirgvFWlFgjhd43WcWVlAsOHRB/g/5PimvEc3gTA==
+
 picomatch@^2.0.4, picomatch@^2.2.1, picomatch@^2.2.3:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-2.3.0.tgz#f1f061de8f6a4bf022892e2d128234fb98302972"
